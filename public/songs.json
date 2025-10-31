@@ -1,0 +1,39 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "title": "Summer Vibes",
+      "artist": "Chil Beats",
+      "url": "https://www.soundhelix.com/sound-effects/chill-lofi/16226",
+      "duration": "3:30"
+    },
+    {
+      "id": 2,
+      "title": "Midnight Dreams",
+      "artist": "Acoustic Vibes",
+      "url": "https://www.soundhelix.com/sound-effects/acoustic-guitar/45678",
+      "duration": "4:15"
+    },
+    {
+      "id": 3,
+      "title": "Electric Pulse",
+      "artist": "Synth Wave",
+      "url": "https://www.soundhelix.com/sound-effects/electronic/78912",
+      "duration": "5:05"
+    },
+    {
+      "id": 4,
+      "title": "Ocean Waves",
+      "artist": "Nature Sounds",
+      "url": "https://www.soundhelix.com/sound-effects/ocean-waves/34567",
+      "duration": "3:45"
+    },
+    {
+      "id": 5,
+      "title": "Jazz Cafe",
+      "artist": "Smooth Jazz",
+      "url": "https://www.soundhelix.com/sound-effects/jazz-piano/23456",
+      "duration": "6:20"
+    }
+  ]
+}
